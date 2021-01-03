@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">طلباتو لللاخنبار</string>
+    <string name="title_activity_maps">الخريطه</string>
+    <string name="hellow">اهلا</string>
+    <string name="name">الاسم</string>
+    <string name="change_lanuage">تغير اللغه</string>
+    <string name="map">الخريطه</string>
+    <string name="menu_home">البيت</string>
+    <string name="menu_gallery">المعرض</string>
+    <string name="menu_slideshow">العرض الجانبى</string>
+    <string name="name_register">الاسم</string>
+</resources>
